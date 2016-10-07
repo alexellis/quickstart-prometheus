@@ -1,4 +1,4 @@
-# Quickstart for Promtheus
+# Quickstart for Prometheus
 
 Get up and running with Prometheus and node-exporter with a `docker-compose.yml` file in less than 5 minutes.
 
