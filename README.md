@@ -15,5 +15,5 @@ Open a browser and point at http://localhost:9090/
 
 * [Node Exporter](https://github.com/prometheus/node_exporter)
 
-* [Querying Promtheus](https://prometheus.io/docs/querying/basics/)
+* [Querying Prometheus](https://prometheus.io/docs/querying/basics/)
 
