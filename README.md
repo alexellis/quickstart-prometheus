@@ -9,7 +9,15 @@ $ git clone https://github.com/alexellis/quickstart-prometheus
 $ cd quickstart-prometheus
 $ docker-compose up -d
 ```
+#### Prometheus:
+
 Open a browser and point at http://localhost:9090/
+
+#### Grafana:
+
+Open a browser and point at http://localhost:3000/
+
+Default credentials follow official docs: admin/admin
 
 ### See also:
 
